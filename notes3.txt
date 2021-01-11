@@ -1,0 +1,6 @@
+UserProfileData(full_name=test, work_study=too abc, country_email_phone=877177777898)
+UserProfileData(full_name=test2, work_study=null, country_email_phone=null)
+UserProfileData(full_name=test2, work_study=kaznu, country_email_phone=null)
+UserProfileData(full_name=test2, work_study=kaznu, country_email_phone=7777)
+UserProfileData(full_name=null, work_study=null, country_email_phone=8777 (#!#)
+UserProfileData(full_name=null, work_study=null, country_email_phone=Нанар лввл)

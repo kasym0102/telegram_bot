@@ -1,0 +1,45 @@
+package kz.home.my_bot.botapi;
+
+
+public enum BotState {
+    ASK_FULL_NAME,
+    ASK_WORK_STUDY,
+    ASK_COUNTRY_EMAIL_PHONE,
+
+    FILLING_PROFILE,
+    PROFILE_FILLED,
+
+    SHOW_USER_PROFILE,
+    SHOW_MAIN_MENU,
+    SHOW_HELP_MENU,
+
+    NEWS,
+    SHOW_ABOUT_ASSOC,
+    JOIN_THE_ASSOC,
+    REGISTR_TO_EVENT,
+    SEMINAR,
+    NO_EVENT,
+    CALLBACK,
+
+    PROJECTS,
+
+    SCIENCE,
+    NEW_WORLD,
+    POEMS,
+
+    Charitable_DONATE,
+    SCIENCE_DONATE,
+
+    CONTRIBUTION,
+    CONTACTS,
+
+    ALMATY,
+    ASTANA,
+
+    MISSION,
+    AREAS_OF_WORK
+    ;
+
+
+
+}
